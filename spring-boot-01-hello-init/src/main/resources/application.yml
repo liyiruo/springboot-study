@@ -1,0 +1,21 @@
+server:
+  port: 8089
+  contextPath: /info
+
+emp:
+  lastName: xiaomeng
+#  age: 22
+  salary: 10000
+#  数组/集合/list/set
+  boss: true
+  birthday: 1991/10/10
+  map:
+    key1: value1
+    key2: value2
+  list:
+    - one
+    - two
+    - three
+#  forte:
+#    name: python
+#    time: 10
